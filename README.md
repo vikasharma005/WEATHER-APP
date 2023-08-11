@@ -1,8 +1,11 @@
 # Weather App using Flet and Python
 
-![Weather App Demo](https://github.com/vikasharma005/WEATHER-APP/raw/main/235207862-0d4444e4-c968-4d80-a777-5d0b4666282d.mp4)
-
 This is a simple weather mobile application developed using the Flutter framework and Python. The app allows users to input a city name and retrieve the corresponding weather information. It utilizes an API to fetch weather data and displays it using various components provided by the Flutter framework through the `flet` package.
+
+## Demo
+
+[![Weather App Demo](https://github.com/vikasharma005/WEATHER-APP/raw/main/235207862-0d4444e4-c968-4d80-a777-5d0b4666282d.mp4)](https://github.com/vikasharma005/WEATHER-APP/raw/main/235207862-0d4444e4-c968-4d80-a777-5d0b4666282d.mp4)
+
 
 ## Technologies Used
 
